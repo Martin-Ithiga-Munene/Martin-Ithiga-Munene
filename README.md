@@ -29,7 +29,7 @@
 
 ## Current Projects
 
-### Reach Via
+### Reach Me Via
 [Email: sirmartinmunene@gmail.com] (#Email: sirmartinmunene@gmail.com)
 [Tel: +254718894648] (#Tel: +254718894648)
 
