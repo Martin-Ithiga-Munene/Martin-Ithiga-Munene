@@ -17,7 +17,7 @@
 - [CSS3](#CSS3)
 - [JavaScript](#JavaScript)
 - [React.js](#React.js)
-- [Next.js}(#Next.js)
+- [Next.js](#Next.js)
 
 ### Back End
 
