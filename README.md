@@ -5,10 +5,10 @@
 
 ## Current Learning Goals
 
-[Mastering React and Next.js for dynamic web applications] (#Mastering React and Next.js for dynamic web applications)
-[Enhancing my backend skills with Node.js and MongoDB] (#Enhancing my backend skills with Node.js and MongoDB)
-[Building REST APIs for scalable applications] (#Building REST APIs for scalable applications]
-[Exploring UI/UX best practices with Tailwind CSS] (#Exploring UI/UX best practices with Tailwind CSS)
+- [Mastering React and Next.js for dynamic web applications] (#Mastering React and Next.js for dynamic web applications)
+- [Enhancing my backend skills with Node.js and MongoDB] (#Enhancing my backend skills with Node.js and MongoDB)
+- [Building REST APIs for scalable applications] (#Building REST APIs for scalable applications]
+- [Exploring UI/UX best practices with Tailwind CSS] (#Exploring UI/UX best practices with Tailwind CSS)
 
 ## Technologies & Tools
 
