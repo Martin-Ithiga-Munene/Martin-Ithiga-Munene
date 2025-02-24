@@ -1,6 +1,6 @@
 # Hi there 👋
 
- I'm a Frontend & Backend Developer passionate about building modern, responsive, and scalable web applications. I love learning new technologies and working on exciting projects that [improve user experiences.](#improve user experiences)
+ I'm a Frontend & Backend Developer passionate about building modern, responsive, and scalable web applications. I love learning new technologies and working on exciting projects that improve user experiences.
 
 ## Current Learning Goals
 
